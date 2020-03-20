@@ -22,7 +22,7 @@ In this project, two methods are used to estimate the convergence without knowle
 The errors are approximated from the difference between consecutive solutions (the triangle inequality is turned into an equality, a controversial step indeed).
 The final estimate is taken as the average of the power law parameters over multiple resolutions.
 2. The second method fits a least square power law to the approximate errors of more than three solutions at various resolutions.
-The errors are approximated from a solution with a resolution than all the others.
+The errors are approximated relative to a solution with a greater resolution than all of the others.
 
 ## Before Shocks
 
