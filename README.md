@@ -30,11 +30,15 @@ We estimate the convergence order using both methods before shocks form.
 ![alt text](bs1.png)
 ![alt text](bs2.png)
 
+The second method gives an order of convergence of 1.28, taken from the exponent of the power law fit.
+
 ## After Shocks
 
 We estimate the convergence order using both methods after shocks form.
 ![alt text](as1.png)
 ![alt text](as2.png)
+
+The second method gives an order of convergence of 0.723, taken from the exponent of the power law fit.
 
 ## Evolution
 
